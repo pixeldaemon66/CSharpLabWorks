@@ -1,0 +1,28 @@
+C:\Users\Ori\Desktop\учу C#\csharp1\csharp1\bin\Debug\net8.0\csharp1.exe
+C:\Users\Ori\Desktop\учу C#\csharp1\csharp1\bin\Debug\net8.0\csharp1.deps.json
+C:\Users\Ori\Desktop\учу C#\csharp1\csharp1\bin\Debug\net8.0\csharp1.runtimeconfig.json
+C:\Users\Ori\Desktop\учу C#\csharp1\csharp1\bin\Debug\net8.0\csharp1.dll
+C:\Users\Ori\Desktop\учу C#\csharp1\csharp1\bin\Debug\net8.0\csharp1.pdb
+C:\Users\Ori\Desktop\учу C#\csharp1\csharp1\obj\Debug\net8.0\csharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ori\Desktop\учу C#\csharp1\csharp1\obj\Debug\net8.0\csharp1.AssemblyInfoInputs.cache
+C:\Users\Ori\Desktop\учу C#\csharp1\csharp1\obj\Debug\net8.0\csharp1.AssemblyInfo.cs
+C:\Users\Ori\Desktop\учу C#\csharp1\csharp1\obj\Debug\net8.0\csharp1.csproj.CoreCompileInputs.cache
+C:\Users\Ori\Desktop\учу C#\csharp1\csharp1\obj\Debug\net8.0\csharp1.dll
+C:\Users\Ori\Desktop\учу C#\csharp1\csharp1\obj\Debug\net8.0\refint\csharp1.dll
+C:\Users\Ori\Desktop\учу C#\csharp1\csharp1\obj\Debug\net8.0\csharp1.pdb
+C:\Users\Ori\Desktop\учу C#\csharp1\csharp1\obj\Debug\net8.0\csharp1.genruntimeconfig.cache
+C:\Users\Ori\Desktop\учу C#\csharp1\csharp1\obj\Debug\net8.0\ref\csharp1.dll
+C:\Users\Ori\Desktop\тут я учуся\C#\csharp1\csharp1\bin\Debug\net8.0\csharp1.exe
+C:\Users\Ori\Desktop\тут я учуся\C#\csharp1\csharp1\bin\Debug\net8.0\csharp1.deps.json
+C:\Users\Ori\Desktop\тут я учуся\C#\csharp1\csharp1\bin\Debug\net8.0\csharp1.runtimeconfig.json
+C:\Users\Ori\Desktop\тут я учуся\C#\csharp1\csharp1\bin\Debug\net8.0\csharp1.dll
+C:\Users\Ori\Desktop\тут я учуся\C#\csharp1\csharp1\bin\Debug\net8.0\csharp1.pdb
+C:\Users\Ori\Desktop\тут я учуся\C#\csharp1\csharp1\obj\Debug\net8.0\csharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ori\Desktop\тут я учуся\C#\csharp1\csharp1\obj\Debug\net8.0\csharp1.AssemblyInfoInputs.cache
+C:\Users\Ori\Desktop\тут я учуся\C#\csharp1\csharp1\obj\Debug\net8.0\csharp1.AssemblyInfo.cs
+C:\Users\Ori\Desktop\тут я учуся\C#\csharp1\csharp1\obj\Debug\net8.0\csharp1.csproj.CoreCompileInputs.cache
+C:\Users\Ori\Desktop\тут я учуся\C#\csharp1\csharp1\obj\Debug\net8.0\csharp1.dll
+C:\Users\Ori\Desktop\тут я учуся\C#\csharp1\csharp1\obj\Debug\net8.0\refint\csharp1.dll
+C:\Users\Ori\Desktop\тут я учуся\C#\csharp1\csharp1\obj\Debug\net8.0\csharp1.pdb
+C:\Users\Ori\Desktop\тут я учуся\C#\csharp1\csharp1\obj\Debug\net8.0\csharp1.genruntimeconfig.cache
+C:\Users\Ori\Desktop\тут я учуся\C#\csharp1\csharp1\obj\Debug\net8.0\ref\csharp1.dll
